@@ -157,3 +157,7 @@ Scrap of information list for a software developers.
 77-	What is serverless architecture?
 
 78-	What is Cloud Computing?
+
+79- What is Time Complexity?
+
+80- What is Spacae Complexity?
