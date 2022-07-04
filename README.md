@@ -160,4 +160,4 @@ Scrap of information list for a software developers.
 
 79- What is Time Complexity?
 
-80- What is Spacae Complexity?
+80- What is Space Complexity?
