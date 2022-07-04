@@ -161,3 +161,5 @@ Scrap of information list for a software developers.
 79- What is Time Complexity?
 
 80- What is Space Complexity?
+
+81- What is the difference between stack and heap?
